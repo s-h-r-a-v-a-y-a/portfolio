@@ -20,7 +20,7 @@ const Footer = () => {
           Want to get in <span className="text-purple">touch</span>?
         </h1>
         <p className="text-white-200 md:mt-10 my-4 text-center">
-          Reach out to me today and let's build something amazing together!
+          Reach out to me today and let&apos;s build something amazing together!
         </p>
         <a href="mailto:shravyaracha196@gmail.com">
           <MagicButton
