@@ -143,7 +143,7 @@ export const BentoGridItem = ({
           {id === 5 && (
             <div className="mt-4 text-sm md:text-base leading-relaxed max-w-prose text-center opacity-90">
               <p>
-               I'm a full-stack developer passionate about building scalable and efficient 
+               I&apos;m a full-stack developer passionate about building scalable and efficient 
                server-side applications. I&apos;m proficient in Node.js, Express, NestJS, TypeScript, and 
                working with databases like MongoDB, Postgres and MySQL, enabling me to design robust backends 
                that power modern applications. I&apos;m also familiar with frontend technologies like React.js, Next.js, Tailwind CSS, 
